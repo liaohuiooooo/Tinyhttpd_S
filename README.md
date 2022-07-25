@@ -101,3 +101,6 @@ I help you learn something, I'd love to know!
 
                                    J. David Blackstone
 
+
+## how to use it ?
+> write with markdown(recommend a tool called  markmap)
